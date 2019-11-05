@@ -97,6 +97,88 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#wrapper {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  font-siz: 16px;
+  line-height: 27px;
+  font-family: SansSerif, "Helvetica Neue", Helvetica;
+
+}
+#logo {
+  float: left;
+}
+
+#mastheadLanding {
+  clear: both;
+  background-image: url("../img/ImageForBackground.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 366px;
+  line-height: 366px;
+  margin-bottom: 10px;
+}
+#primaryLinks{
+  float: right;
+}
+#primaryLinks li{
+  display: inline;
+  line-height:  120px;
+}
+#primaryLinks menu {
+  margin: 0px;
+  padding: 0px;
+}
+
+#contentLanding {
+  width: 100%;
+}
+#footer {
+  text-align: center;
+  height: 120px;
+  clear: both;
+}
+#calloutOne, #calloutTwo, #calloutThree {
+  float: left;
+  width: 298px;
+  height: 210px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+
+#wrapperAbout {
+  width: 960px;
+  border: black thin;
+}
+#top {
+  height: 120px;
+  line-height: 120px;
+}
+.fltlft {
+  float: left;
+}
+.isBig {
+  width: 593px;
+}
+.isSmall {
+  logo:367px;
+}
+.clear {
+  clear: both;
+}
+#main_menu  li {
+  display: inline;
+}
+
+#main_menu menu {
+  margin: 0px;
+  padding: 0px;
+  text-align: right;
+}
 
 /* ==========================================================================
    Helper classes
