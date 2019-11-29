@@ -112,7 +112,7 @@ textarea {
 
 #mastheadLanding {
   clear: both;
-  background-image: url("../img/ImageForBackground.jpeg");
+  background-image: url("../img/backgroundImage.jpg");
   background-size: cover;
   background-position: center;
   height: 366px;
