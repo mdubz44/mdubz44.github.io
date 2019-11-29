@@ -139,6 +139,12 @@ textarea {
   height: 120px;
   clear: both;
 }
+#footerImage{
+  clear: both;
+  background-image: url("/img/backgroundImage.jpg");
+  background-size: 1000px;
+  
+}
 #calloutOne, #calloutTwo, #calloutThree {
   float: left;
   width: 298px;
