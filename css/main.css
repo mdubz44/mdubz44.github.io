@@ -144,7 +144,8 @@ textarea {
   background-image: url("../img/backgroundImage.jpg");
   background-position: center;
   background-size: cover;
-  height: 120px;K
+  height: 120px;
+  line-height: 120px;
 }
 #calloutOne, #calloutTwo, #calloutThree {
   float: left;
